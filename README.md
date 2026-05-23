@@ -21,12 +21,12 @@
 
 ### 👨‍💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript" />
 </p>
 
 ### 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php" />
 </p>
 
 ### 🗄️ Database
