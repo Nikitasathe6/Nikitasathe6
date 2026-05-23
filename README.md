@@ -67,10 +67,6 @@ A complete web-based grocery management application using **JSP, Servlet, JDBC, 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikitasathe6&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikitasathe6&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FFFFFF" />
-</p>
-
 <br>
 
 <div align="center">
