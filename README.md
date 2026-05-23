@@ -1,55 +1,91 @@
-# Hi there 👋, I'm Nikita Sathe
+<h1 align="center">Hi 👋, I'm Nikita Sathe</h1>
+<h3 align="center">💻 Computer Science Student | Java Full Stack Developer | Tech Enthusiast 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Full+Stack+Learner;JSP+Servlet+JDBC;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
+
+---
+
+# 🚀 About Me
 
 🎓 Computer Science Student  
-💻 Java Full Stack Developer  
-🌱 Currently learning JSP, Servlet, JDBC, PostgreSQL, and Embedded Systems  
-🚀 Interested in Web Development and Software Engineering  
-📚 Exploring Industry-Level Projects and Open Source Contributions  
+💻 Passionate about Java Full Stack Development  
+🌱 Currently learning JSP, Servlet, JDBC, PostgreSQL & Embedded Systems  
+⚡ Love building real-world projects  
+🔥 Interested in Software Development & Open Source  
 
 ---
 
-## 🔧 Technologies & Tools
+# 🛠️ Tech Stack
 
-- Java
-- JSP & Servlet
-- JDBC
-- PostgreSQL
-- HTML, CSS, JavaScript
-- Git & GitHub
-- Eclipse IDE
-- VS Code
+### 👨‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,javascript" />
+</p>
 
----
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
-## 📌 Projects
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
 
-### 🛒 Grocery Management System
-A web-based grocery management application using JSP, Servlet, JDBC, and PostgreSQL.
-
-**Features:**
-- User Login & Registration
-- Add to Cart
-- Bill Generation
-- Admin/User Roles
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+# 📌 Featured Project
 
-- Advanced Java
-- Data Structures & Algorithms
-- Software Testing
-- Embedded System Design
+## 🛒 Grocery Management System
+
+A complete web-based grocery management application using **JSP, Servlet, JDBC, and PostgreSQL**.
+
+### ✨ Features
+✔ User Login & Registration  
+✔ Admin & User Dashboard  
+✔ Add to Cart System  
+✔ Bill Generation  
+✔ Database Connectivity  
+✔ Session Management  
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-- GitHub: https://github.com/Nikitasathe6
-- LinkedIn: Add your LinkedIn profile link here
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nikitasathe6&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikitasathe6&theme=tokyonight" height="180em"/>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+# 🌐 Connect With Me
 
-I enjoy building real-world projects and learning new technologies every day 🚀
+<p align="left">
+<a href="https://github.com/Nikitasathe6" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="YOUR_LINKEDIN_LINK" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+---
+
+# 🔥 Quote of the Day
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
