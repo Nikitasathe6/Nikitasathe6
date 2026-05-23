@@ -59,13 +59,17 @@ A complete web-based grocery management application using **JSP, Servlet, JDBC, 
 
 # ✨ GitHub Journey & Coding Activity
 
-<div align="center">
+# 📊 GitHub Analytics
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nikitasathe6&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&custom_title=GitHub%20Statistics" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nikitasathe6&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikitasathe6&theme=tokyonight&hide_border=true&border_radius=20&background=0D1117&ring=BB9AF7&fire=7AA2F7&currStreakLabel=C0CAF5" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikitasathe6&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" />
+</p>
 
-</div>
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikitasathe6&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FFFFFF" />
+</p>
 
 <br>
 
