@@ -75,16 +75,6 @@ A complete web-based grocery management application using **JSP, Servlet, JDBC, 
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nikitasathe6&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
-
-</div>
-
-<br>
-
 <div align="center">
 
 ### 💻 *"Building skills, creating projects, and growing every day 🚀"*
